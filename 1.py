@@ -1,5 +1,2 @@
-a=2**10
-b = 16**2
-c = 8*32
-result = (a-b)/(c)
+result = ( 2**10 - 16**2) / (8*32)
 print(result)
